@@ -6,5 +6,7 @@ In the context of the Advanced-Topics-in-Machine-Learning-and-Data-Science cours
 
 I've uploaded it [here](https://targetsm.github.io/exploring_the_limits_of_language_modeling.pdf) in hope can help someone understanding the paper better.
 
+Credit also goes to Luis Salamanca who advised me on this presentation.
+
 Cheers,
 Gabriel
